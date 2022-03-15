@@ -6,3 +6,10 @@ while (number <= 12) {
 // → 0
 // → 2
 // ... etcetera”
+
+let yourName;
+do {
+    yourName = prompt("Who are you?");
+}
+while (!yourName);
+console.log(yourName);
