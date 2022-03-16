@@ -9,3 +9,5 @@ console.log(listNum[4]);
 //->
 console.log(listNum[3 - 1]);
 //->3
+
+console.log(listNum);
